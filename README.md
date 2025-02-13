@@ -31,5 +31,5 @@ Click inside the sphere to generate bouncing balls.
 This project is open-source and available under the MIT License.
 
 ## Author
-[Your Name]
+Kseniia Lala Land https://github.com/Lala0Land
 
