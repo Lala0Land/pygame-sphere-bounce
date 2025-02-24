@@ -1,6 +1,6 @@
 # Pygame Sphere Bounce
 
-## 📸 Contract Demo:
+## 📸 Demo:
 ![Contract Demo](assets/balls1.gif)
 
 ## Description
@@ -26,7 +26,7 @@ python pygame_sphere.py
 ```
 Click inside the sphere to generate bouncing balls.
 
-## 📺 Contract Video Overview:
+## 📺 Video Overview:
 [![Watch on YouTube](https://img.youtube.com/vi/WVeSOaFNxkU/maxresdefault.jpg)](https://www.youtube.com/shorts/WVeSOaFNxkU)
 
 
