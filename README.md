@@ -39,7 +39,7 @@ Click inside the sphere to generate bouncing balls.
 This project is open-source and available under the MIT License.
 
 ## Author
-Kseniia Lala Land https://github.com/Lala0Land
-Telegram: https://t.me/xeniacodes
-YouTube: https://www.youtube.com/@xeniacodes
+- Kseniia Lala Land, https://github.com/Lala0Land
+- Telegram: https://t.me/xeniacodes
+- YouTube: https://www.youtube.com/@xeniacodes
 
