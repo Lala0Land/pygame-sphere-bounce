@@ -27,7 +27,7 @@ python pygame_sphere.py
 Click inside the sphere to generate bouncing balls.
 
 ## 📺 Video Overview:
-[![Watch on YouTube](https://img.youtube.com/vi/WVeSOaFNxkU/maxresdefault.jpg)](https://www.youtube.com/shorts/WVeSOaFNxkU)
+[![Watch on YouTube](https://img.youtube.com/vi/unj-OtCaTes/maxresdefault.jpg)](https://www.youtube.com/shorts/unj-OtCaTes)
 
 
 
