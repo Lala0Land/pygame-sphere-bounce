@@ -1,5 +1,8 @@
 # Pygame Sphere Bounce
 
+## 📸 Contract Demo:
+![Contract Demo](assets/balls1.gif)
+
 ## Description
 This project is a simple physics simulation using Python and Pygame. It demonstrates how balls bounce inside a confined circular area, ensuring they remain within the sphere by reflecting off its edges.
 
